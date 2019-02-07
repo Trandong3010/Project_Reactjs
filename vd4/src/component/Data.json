@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "ma": 1,
+        "name": "Samsung Galaxy Note 8",
+        "category": "1"
+    },
+    {
+        "id": 2,
+        "ma": 2,
+        "name": "OPPO A7 32GB",
+        "category": "2"
+    }
+]
